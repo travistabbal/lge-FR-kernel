@@ -93,3 +93,5 @@ GTAGS
 *.orig
 *~
 \#*#
+
+/arch/arm/boot/compressed/piggy.gzip
